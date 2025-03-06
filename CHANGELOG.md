@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/chris-sutton/universal-codebase/compare/v0.2.0...v0.3.0) (2025-03-06)
+
+
+### Features
+
+* finalize setup with node 23 ([878a111](https://github.com/chris-sutton/universal-codebase/commit/878a111919beaf90b69246b40df27a3f5afbb753))
+
 # [0.2.0](https://github.com/chris-sutton/universal-codebase/compare/v0.1.0...v0.2.0) (2025-03-06)
 
 
