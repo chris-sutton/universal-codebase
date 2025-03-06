@@ -1,3 +1,10 @@
+# [0.3.0-beta.2](https://github.com/chris-sutton/universal-codebase/compare/v0.3.0-beta.1...v0.3.0-beta.2) (2025-03-06)
+
+
+### Bug Fixes
+
+* testing updates with test. ([dca00b7](https://github.com/chris-sutton/universal-codebase/commit/dca00b7eeb927ebdc815eff032933c9cc74cfe74))
+
 # [0.3.0-beta.1](https://github.com/chris-sutton/universal-codebase/compare/v0.2.0...v0.3.0-beta.1) (2025-03-06)
 
 
