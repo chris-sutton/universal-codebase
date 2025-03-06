@@ -2,7 +2,7 @@ name: Release
 
 on:
   push:
-    branches: [ main, develop ]
+    branches: [ main ]
 
 jobs:
   release:
@@ -14,9 +14,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '23'
-      - name: Install dependencies
-        run: npm install
-      - name: Run semantic-release
-        run: npx semantic-release
+      - run: npm install
+      - run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
