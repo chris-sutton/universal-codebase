@@ -1,3 +1,15 @@
+# [0.3.0-beta.1](https://github.com/chris-sutton/universal-codebase/compare/v0.2.0...v0.3.0-beta.1) (2025-03-06)
+
+
+### Bug Fixes
+
+* made develop work ([37750ec](https://github.com/chris-sutton/universal-codebase/commit/37750ecdf044eb2eb3d7d4a0db379644d7c64cab))
+
+
+### Features
+
+* finalize setup with node 23 ([878a111](https://github.com/chris-sutton/universal-codebase/commit/878a111919beaf90b69246b40df27a3f5afbb753))
+
 # [0.2.0](https://github.com/chris-sutton/universal-codebase/compare/v0.1.0...v0.2.0) (2025-03-06)
 
 
